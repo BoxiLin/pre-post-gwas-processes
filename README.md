@@ -1,1 +1,1 @@
-# pre-post-gwas-processes
+# Scripts for pre- and post- gwas processes
