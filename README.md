@@ -1,1 +1,1 @@
-# Scripts for pre- and post- gwas processes
+# Memo for pre- and post- gwas processes
